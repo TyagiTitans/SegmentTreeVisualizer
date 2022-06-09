@@ -5,6 +5,16 @@ This is a JAVA APP named Segment Tree Visualizer 🌳 . This app shows the build
 
 To run the project you can also download the files and and open it in Visual Studio Code and shoud have all java dependency (mentioned at last) then navigate to App.java and click the Run option. Hope you enjoy it 😊.
 
+<img src = "https://github.com/TyagiTitans/SegmentTreeVisualizer/blob/main/SegTreeViz/Output%20Images/RangeMax.png" height=500>
+
+
+<img src = "https://github.com/TyagiTitans/SegmentTreeVisualizer/blob/main/SegTreeViz/Output%20Images/RangeMin.png" height=500>
+
+
+<img src = "https://github.com/TyagiTitans/SegmentTreeVisualizer/blob/main/SegTreeViz/Output%20Images/RangeSum.png" height=500>
+
+
+<img src = "https://github.com/TyagiTitans/SegmentTreeVisualizer/blob/main/SegTreeViz/Output%20Images/RangeXor.png" height=500>
 
 ## Dependency Management
 
